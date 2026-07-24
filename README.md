@@ -19,7 +19,7 @@
 - 💼 Completed ML/Data Science internships at **Cognifyz Technologies** and **Oasis Infobyte**
 - 🧠 Solved **150+ DSA problems** on LeetCode as part of a 12-week Java placement prep roadmap
 - 📜 Certified in **Generative AI, Agentic Systems & MLOps Deployment** (Coding Spoon)
-- 🎯 Actively seeking **SDE / ML Engineer** roles for 2026 campus placements
+- 🎯 Actively seeking **SDE / ML Engineer** roles for 2027 campus placements
 - 🌐 Portfolio: https://mohsin2106.github.io/
 - 📫 Reach me: mohsinquaisar123@gmail.com · https://www.linkedin.com/in/mohsin-quaisar-a73871303
 
