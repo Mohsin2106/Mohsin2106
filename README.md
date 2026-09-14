@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohsin Quaisar 👋</h1>
-<h3 align="center">Final-year B.Tech (AI & ML) | Rungta College of Engineering & Technology | Seeking AI Developer / SDE roles</h3>
+<h3 align="center">Final-year B.Tech (AI & ML) | Rungta College of Engineering & Technology | Seeking AI Developer / SDE roles / ML Engineer / Deep learning Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
